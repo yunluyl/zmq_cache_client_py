@@ -1,0 +1,9 @@
+*.pyc
+*.iml
+*.orig
+.idea/
+*.DS_Store
+*.log
+build/
+dist/
+zmq_cache_client.egg-info/
