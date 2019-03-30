@@ -11,7 +11,7 @@ setup(
     description="ZeroMQ look aside cache Python client",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/yunluyl/zmq_cache_client",
+    url="https://github.com/yunluyl/zmq_cache_client_py",
     install_requires=["pyzmq"],
     packages=find_packages(),
     classifiers=[
